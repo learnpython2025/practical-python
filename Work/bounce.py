@@ -1,7 +1,6 @@
 # bounce.py
 #
 # Exercise 1.5
-#
 
 #exercises 1.1
 print("(711.25-235.14)*75=")
